@@ -1,0 +1,28 @@
+# Node & build tools
+node_modules/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temp & cache
+*.log
+*.tmp
+*.bak
+*.swp
+*.zip
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Private configs
+drive.config.js
+api_keys.txt
+.env
+
+# OS hidden
+._*
